@@ -1,0 +1,5 @@
+-puerto 8080 
+-dos grupos de rutas: /products y /carts
+-Para el manejo de productos, el cual tendrá su router en /api/products
+-La ruta raíz GET / deberá listar todos los productos de la base.
+-La ruta GET /:pid deberá traer sólo el producto con el id proporcionado
